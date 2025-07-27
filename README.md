@@ -1,4 +1,4 @@
-# Fire Safety Training App
+# Safety education App
 
 **Version: Alpha 0.01**
 
